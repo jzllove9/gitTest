@@ -1,1 +1,2 @@
-this is new test of conflict from  de de1 and master
+this is new test of conflict from  de de1 and master 
+now I fixed the small bug
